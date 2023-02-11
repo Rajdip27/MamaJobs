@@ -19,6 +19,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/EmploymentStatus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudFN0YXR1c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/EmploymentStatus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudFN0YXR1c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/EmploymentStatus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudFN0YXR1c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/EmploymentStatus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudFN0YXR1c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/EmploymentStatus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudFN0YXR1c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -85,6 +105,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/JobLevel/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTGV2ZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/JobLocation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTG9jYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/JobLocation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTG9jYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/JobLocation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTG9jYXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/JobLocation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTG9jYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/JobLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iTG9jYXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/ServiceType/Create.cshtml]

@@ -69,7 +69,7 @@ namespace Tactsoft.Controllers.Admin
                     if(Result != null)
                     {
                         Result.IndustryTypeName= industry.IndustryTypeName;
-                        await _industryTypeService.UpdateAsync(industry);
+                        await _industryTypeService.UpdateAsync(Result);
                         TempData["successAlert"] = "Industry Type Update Successfull.";
                         return RedirectToAction(actionName: nameof(Index));
 
