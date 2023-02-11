@@ -18,6 +18,8 @@ namespace Tactsoft.Service.Dependency
             //services.AddScoped<IDepartmentService, DepartmentService>();
             services.AddScoped<IIndustryTypeService,IndustryTypeService>();
             services.AddScoped<IServiceTypeService, ServiceTypeService>();
+            services.AddScoped<IJobCategoryService, JobCategoryService>();
+            services.AddScoped<IJobLevelService, JobLevelService>();
 
 
         }
