@@ -1,0 +1,889 @@
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.AssemblyReference.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.AssemblyInfoInputs.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.AssemblyInfo.cs
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.CoreCompileInputs.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.RazorAssemblyInfo.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.RazorAssemblyInfo.cs
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\appsettings.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.staticwebassets.runtime.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.exe
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.deps.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.runtimeconfig.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Ardalis.Specification.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\AutoMapper.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\MessagePack.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Common.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Data.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Service.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Core.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Data.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Service.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.Tactsoft.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.build.Tactsoft.props
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tactsoft.props
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tactsoft.props
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\bundle\Tactsoft.styles.css
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\projectbundle\Tactsoft.bundle.scp.css
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.CopyComplete
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\refint\Tactsoft.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.genruntimeconfig.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft\obj\Debug\net6.0\ref\Tactsoft.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.staticwebassets.runtime.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.exe
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.deps.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.runtimeconfig.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Ardalis.Specification.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\MessagePack.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.AssemblyInfo.cs
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.Tactsoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.build.Tactsoft.props
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tactsoft.props
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tactsoft.props
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\bundle\Tactsoft.styles.css
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\projectbundle\Tactsoft.bundle.scp.css
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.CopyComplete
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\refint\Tactsoft.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.genruntimeconfig.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft\obj\Debug\net6.0\ref\Tactsoft.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\appsettings.Development.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\appsettings.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.staticwebassets.runtime.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.exe
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.deps.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.runtimeconfig.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Ardalis.Specification.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\AutoMapper.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Humanizer.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\MessagePack.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Build.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Common.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Data.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Service.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Core.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Data.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\bin\Debug\net6.0\Tactsoft.Service.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.AssemblyReference.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.GeneratedMSBuildEditorConfig.editorconfig
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.AssemblyInfoInputs.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.AssemblyInfo.cs
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.CoreCompileInputs.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.MvcApplicationPartsAssemblyInfo.cs
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.MvcApplicationPartsAssemblyInfo.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.RazorAssemblyInfo.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.RazorAssemblyInfo.cs
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.build.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\staticwebassets.development.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\bundle\Tactsoft.styles.css
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\scopedcss\projectbundle\Tactsoft.bundle.scp.css
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.csproj.CopyComplete
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\refint\Tactsoft.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\Tactsoft.genruntimeconfig.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\obj\Debug\net6.0\ref\Tactsoft.dll

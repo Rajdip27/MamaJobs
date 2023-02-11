@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tactsoft
+build_property.RootNamespace = Tactsoft
+build_property.ProjectDir = E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/IndustryType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kdXN0cnlUeXBlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/IndustryType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kdXN0cnlUeXBlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/Partial/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/Partial/Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/Partial/Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcU2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/Partial/Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/Partial/Styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcU3R5bGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/UIComponents/_bootstrapAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlDb21wb25lbnRzXF9ib290c3RyYXBBbGVydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/UIComponents/_MediumModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlDb21wb25lbnRzXF9NZWRpdW1Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tn78jrqeed
+
+[E:/MamaJobsProject/Tactsoft/Tactsoft/Tactsoft/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-z7k1ej6tzl

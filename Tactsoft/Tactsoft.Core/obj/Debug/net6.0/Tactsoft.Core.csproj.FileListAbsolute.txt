@@ -1,0 +1,42 @@
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.deps.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.runtimeconfig.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.AssemblyReference.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfoInputs.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfo.cs
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.deps.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.runtimeconfig.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.deps.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.runtimeconfig.json
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\bin\Debug\net6.0\Tactsoft.Core.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.AssemblyReference.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfoInputs.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.AssemblyInfo.cs
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.csproj.CoreCompileInputs.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\refint\Tactsoft.Core.dll
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.pdb
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\Tactsoft.Core.genruntimeconfig.cache
+E:\MamaJobsProject\Tactsoft\Tactsoft\Tactsoft.Core\obj\Debug\net6.0\ref\Tactsoft.Core.dll
