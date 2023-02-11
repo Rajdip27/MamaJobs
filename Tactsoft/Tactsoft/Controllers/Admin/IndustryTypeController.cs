@@ -30,6 +30,7 @@ namespace Tactsoft.Controllers.Admin
                 if (ModelState.IsValid)
                 {
                     await _industryTypeService.InsertAsync(industry);
+                    TempData["successAlert"] = "Industry Type Save Successfull.";
                     return RedirectToAction(actionName: nameof(Index));
                 }
                 return View(industry);
@@ -38,6 +39,113 @@ namespace Tactsoft.Controllers.Admin
             {
                 return BadRequest(ex.Message);
             }
+        }
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            try
+            {
+                if (id == null)
+                {
+                    return NotFound();
+                }
+                var Result = await _industryTypeService.FindAsync(id);
+                return View(Result);
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(IndustryType industry)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    var Result = await _industryTypeService.FindAsync(industry.Id);
+                    if(Result != null)
+                    {
+                        Result.IndustryTypeName= industry.IndustryTypeName;
+                        await _industryTypeService.UpdateAsync(industry);
+                        TempData["successAlert"] = "Industry Type Update Successfull.";
+                        return RedirectToAction(actionName: nameof(Index));
+
+                    }
+                    else
+                    {
+                        return NotFound();
+                    }
+                }
+                return View(industry);
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpGet]
+        public async Task<IActionResult> Details(int id)
+        {
+            try
+            {
+                if (id == null)
+                {
+                    return NotFound();
+                }
+                var Result = await _industryTypeService.FindAsync(id);
+                return View(Result);
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                if (id == null)
+                {
+                    return NotFound();
+                }
+                var Result = await _industryTypeService.FindAsync(id);
+                return View(Result);
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+        [HttpPost]
+        [ActionName("Delete")]
+        public async Task<IActionResult> DeleteCon(int id)
+        {
+            try
+            {
+                
+                    var Result = await _industryTypeService.FindAsync(id);
+                    if(Result == null)
+                    {
+                        return NotFound();
+                    }
+                    await _industryTypeService.DeleteAsync(Result);
+                    TempData["successAlert"] = "Industry Type Delete Successfull.";
+                    return RedirectToAction(actionName: nameof(Index));
+                
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
         }
     }
 }
