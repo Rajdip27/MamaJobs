@@ -20,6 +20,10 @@ namespace Tactsoft.Service.Dependency
             services.AddScoped<IWorkPlaceService, WorkPlaceService>();
             services.AddScoped<IResumeRecivingOptaionService, ResumeRecivingOptaionService>();
             services.AddScoped<IJobSubCategoryService, JobSubCategoryService>();
+            services.AddScoped<ICountryService, CountryService>();
+            services.AddScoped<IDistrictService, DistrictService>();
+            services.AddScoped<IThanaService, ThanaService>();
+
 
 
         }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,11 @@ namespace Tactsoft.Service.Services
         public CountryService(AppDbContext context) : base(context)
         {
             _appDbContext = context;
+        }
+
+        public IEnumerable<SelectListItem> Dropdown()
+        {
+            return All().Select(x => new SelectListItem { Text = x.CountryName, Value = x.Id.ToString() });
         }
     }
 }
