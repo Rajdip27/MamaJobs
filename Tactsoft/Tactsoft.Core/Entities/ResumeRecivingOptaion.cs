@@ -12,7 +12,7 @@ namespace Tactsoft.Core.Entities
     public class ResumeRecivingOptaion:BaseEntity
     {
         [Required]
-        [DisplayName("Resume Reciving Optaion Name")]
+        [DisplayName("Resume Reciving Name")]
         public string ResumeOptaionName { get; set; }
     }
 }
